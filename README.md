@@ -10,7 +10,7 @@ A [LeafletJS](http://www.leafletjs.com) plugin for displaying geoTIFF raster dat
 ### 1. Include the JavaScript file and dependencies
 ```html
     <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
-    <script src="https://unpkg.com/geotiff@0.4.1/dist/main.js"></script>
+    <script src="https://unpkg.com/geotiff@0.4.1/dist/geotiff.browserify.js"></script>
     <script src="https://unpkg.com/plotty@0.2.0/src/plotty.js"></script>
     <script src="leaflet-geotiff.js"></script>
     <!-- Load any renderer you need -->
